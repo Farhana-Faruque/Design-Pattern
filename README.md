@@ -1,3 +1,2 @@
 # Design-Pattern 
-I have made a desktop add for product selling and buying. 
-
+In this folder I have added basic dp codes in java and the topics. 
