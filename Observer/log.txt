@@ -1,0 +1,2 @@
+Someone has opened the file: example.txt
+Someone has opened the file: example.txt
